@@ -1,0 +1,1096 @@
+# Copyright (C) 2020 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/_s\n"
+"Last-Translator: \n"
+"Language-Team: Türkçe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-08-08 20:42+0000\n"
+"PO-Revision-Date: 2021-08-14 19:53+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: _s\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.5.3; wp-5.8"
+
+#. %1$S: writing the comment in day month year format %2$S: writing the comment in hours and minutes
+#: inc/comment-template.php:16
+#, php-format
+msgid " %1$s - %2$s "
+msgstr ""
+
+#: inc/widgets/umag-footer-category.php:25
+#: inc/widgets/umag-sort-category.php:25
+msgid " Sort categories"
+msgstr ""
+
+#: inc/theme_options.php:49
+msgid "#"
+msgstr ""
+
+#. 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#. 1: title.
+#: comments.php:37
+msgid "1 comment"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: functions.php:137 functions.php:148 functions.php:159 functions.php:171
+#: functions.php:182 functions.php:193 functions.php:204
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. 1: dashboard link.
+#: inc/classes/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/theme_options.php:434
+msgid "All rights reserved | This template is made with "
+msgstr ""
+
+#. 1: plugin name, 2: error message.
+#: inc/classes/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/template-tags.php:200
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/widgets/umag-post-widget.php:25 inc/widgets/umag-video-posts.php:25
+msgid "Arrangement"
+msgstr ""
+
+#: inc/template-tags.php:203
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme_options.php:331
+msgid "Bottom Slider Settings"
+msgstr ""
+
+#: inc/theme_options.php:350
+msgid "Bottom slider text edit"
+msgstr ""
+
+#: inc/theme_options.php:47
+msgid "Button link edit"
+msgstr ""
+
+#: inc/theme_options.php:55
+msgid "Button mobile icon"
+msgstr ""
+
+#: inc/theme_options.php:39
+msgid "Button text edit"
+msgstr ""
+
+#: inc/theme_options.php:127 inc/theme_options.php:193
+#: inc/theme_options.php:258 inc/theme_options.php:323
+#: inc/theme_options.php:388 inc/theme_options.php:415
+msgid "By date"
+msgstr ""
+
+#: inc/theme_options.php:128 inc/theme_options.php:194
+#: inc/theme_options.php:259 inc/theme_options.php:324
+#: inc/theme_options.php:389 inc/theme_options.php:416
+msgid "By popularty"
+msgstr ""
+
+#: inc/theme_options.php:129 inc/theme_options.php:195
+#: inc/theme_options.php:260 inc/theme_options.php:325
+#: inc/theme_options.php:390 inc/theme_options.php:417
+msgid "By random"
+msgstr ""
+
+#: inc/widgets/umag-post-widget.php:37 inc/widgets/umag-video-posts.php:37
+msgid "category"
+msgstr ""
+
+#: inc/theme_options.php:121 inc/theme_options.php:187
+#: inc/theme_options.php:252 inc/theme_options.php:317
+msgid "Category arrangment"
+msgstr ""
+
+#: inc/widgets/umag-footer-category.php:19
+#: inc/widgets/umag-sort-category.php:19
+msgid "Category number"
+msgstr ""
+
+#: inc/template-tags.php:206
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/widgets/umag-post-widget.php:33 inc/widgets/umag-video-posts.php:33
+msgid "comments"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:43
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme_options.php:130 inc/theme_options.php:196
+#: inc/theme_options.php:261 inc/theme_options.php:326
+#: inc/theme_options.php:391 inc/theme_options.php:418
+msgid "Cy the number of comments"
+msgstr ""
+
+#: inc/widgets/umag-post-widget.php:30 inc/widgets/umag-video-posts.php:30
+msgid "date"
+msgstr ""
+
+#: inc/theme_options.php:89 inc/theme_options.php:149 inc/theme_options.php:214
+#: inc/theme_options.php:279 inc/theme_options.php:344
+#: inc/theme_options.php:478
+msgid "Disable"
+msgstr ""
+
+#: inc/theme_options.php:472
+msgid "Disable Author"
+msgstr ""
+
+#: inc/theme_options.php:83 inc/theme_options.php:143 inc/theme_options.php:208
+#: inc/theme_options.php:273 inc/theme_options.php:338
+msgid "Disable slider"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:87
+msgid "Discord Link"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme_options.php:88 inc/theme_options.php:148 inc/theme_options.php:213
+#: inc/theme_options.php:278 inc/theme_options.php:343
+#: inc/theme_options.php:477
+msgid "Enable"
+msgstr ""
+
+#: inc/template-tags.php:204
+msgid "Error 404"
+msgstr ""
+
+#: inc/meta-box.php:14
+msgid "example: 09:27"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/theme_options.php:57
+msgid "fa-cloud-upload-alt"
+msgstr ""
+
+#: inc/theme_options.php:24
+msgid "fa-user"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:27
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/theme_options.php:222
+msgid "FEATURED VİDEOS"
+msgstr ""
+
+#: functions.php:61 inc/theme_options.php:425
+msgid "Footer"
+msgstr ""
+
+#: functions.php:169
+msgid "Footer 1 Slider"
+msgstr ""
+
+#: functions.php:180
+msgid "Footer 2 Slider"
+msgstr ""
+
+#: functions.php:191
+msgid "Footer 3 Slider"
+msgstr ""
+
+#: functions.php:202
+msgid "Footer 4 Slider"
+msgstr ""
+
+#: inc/theme_options.php:432
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/theme_options.php:448
+msgid "Footer Copyright Link"
+msgstr ""
+
+#: inc/theme_options.php:440
+msgid "Footer Copyright Link Text"
+msgstr ""
+
+#: inc/theme_options.php:14
+msgid "Header Settings"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3509
+#: inc/classes/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/widgets/umag-footer-category.php:35
+#: inc/widgets/umag-sort-category.php:35
+msgid "Hide empty categories"
+msgstr ""
+
+#: inc/widgets/umag-footer-category.php:41
+#: inc/widgets/umag-sort-category.php:41
+msgid "Hide Number of Posts"
+msgstr ""
+
+#. Name of the template
+#: inc/template-tags.php:199
+msgid "Home"
+msgstr ""
+
+#: functions.php:157
+msgid "Home page left Slider"
+msgstr ""
+
+#: functions.php:146
+msgid "Home page Right Slider"
+msgstr ""
+
+#: inc/theme_options.php:72
+msgid "Home page settings"
+msgstr ""
+
+#. URI of the theme
+msgid "http://yasincanaz.com/"
+msgstr ""
+
+#. Author URI of the theme
+#: inc/theme_options.php:450
+msgid "https://yasincanaz.com"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:99
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#. 1: install status, 2: update status
+#: inc/classes/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:83
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/widgets/umag-footer-social-widget.php:12
+msgid "leave blank the fields you want to remove"
+msgstr ""
+
+#: inc/theme_options.php:108 inc/theme_options.php:175
+#: inc/theme_options.php:240 inc/theme_options.php:305
+msgid "Leave blank to select all categories"
+msgstr ""
+
+#: inc/theme_options.php:136
+msgid "Liddle Slider Settings"
+msgstr ""
+
+#: inc/theme_options.php:155
+msgid "Liddle slider text edit"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:75
+msgid "Linkedin Link"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/theme_options.php:22
+msgid "Login icon edit"
+msgstr ""
+
+#: inc/theme_options.php:30
+msgid "Login Link edit"
+msgstr ""
+
+#. Name of the theme
+msgid "mag"
+msgstr ""
+
+#: comments.php:101
+msgid "Message*"
+msgstr ""
+
+#: inc/theme_options.php:266
+msgid "Mid Slider Settings"
+msgstr ""
+
+#: inc/theme_options.php:285
+msgid "Mid slider text edit"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#: inc/theme_options.php:287
+msgid "MOST VİEWED VİDEOS"
+msgstr ""
+
+#. 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: comments.php:76
+msgid "No comments yet, be the first to comment"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:81
+msgid "Number of Discord Friends"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:21
+msgid "Number of Facebook followers"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:93
+msgid "Number of instagram Fallowers"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:69
+msgid "Number of Linkedin connection"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:57
+msgid "Number of pinterest followers"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:33
+msgid "Number of twitter followers"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:105
+msgid "Number of whatsapp Fallowers"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:45
+msgid "Number of youtube followers"
+msgstr ""
+
+#. Description of the theme
+msgid "on numara beş yıldız teması"
+msgstr ""
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/template-tags.php:205
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/content-page.php:25
+msgid "Pages:"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:63
+msgid "Pinterest Link"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:934
+#: inc/classes/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1121
+#: inc/classes/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:387
+#: inc/classes/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/widgets/umag-post-widget.php:19 inc/widgets/umag-video-posts.php:19
+msgid "Post count"
+msgstr ""
+
+#: inc/theme_options.php:457
+msgid "Post page settings"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:66
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:202
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions.php:60
+msgid "Primary"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:386
+#: inc/classes/class-tgm-plugin-activation.php:827
+#: inc/classes/class-tgm-plugin-activation.php:2533
+#: inc/classes/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/template-tags.php:170
+msgid "Search and hit enter..."
+msgstr ""
+
+#: inc/template-tags.php:201
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#. %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/theme_options.php:124 inc/theme_options.php:190
+#: inc/theme_options.php:255 inc/theme_options.php:320
+#: inc/theme_options.php:385 inc/theme_options.php:412
+msgid "Select an category.."
+msgstr ""
+
+#: inc/theme_options.php:464
+msgid "Short Code"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3509
+#: inc/classes/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/widgets/umag-footer-category.php:12
+#: inc/widgets/umag-sort-category.php:12
+msgid "Shows categories and content count"
+msgstr ""
+
+#: functions.php:135
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme_options.php:201
+msgid "Six Slider Settings"
+msgstr ""
+
+#: inc/theme_options.php:220
+msgid "Six slider text edit"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: inc/theme_options.php:75
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/theme_options.php:352
+msgid "SPORTS VİDEOS"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: comments.php:105
+msgid "Submit Comment"
+msgstr ""
+
+#: inc/theme_options.php:41
+msgid "SUBMİT VİDEO"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:73
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: version number
+#: inc/classes/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:388
+#: inc/classes/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: add menu link
+#: footer.php:95
+#, php-format
+msgid "there is no menu in the footer, create it right <a href='%s'>here</a>"
+msgstr ""
+
+#. %s: add menu link
+#: header.php:68
+#, php-format
+msgid "there is no menu in the header, create it right <a href='%s'>here</a>"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets/umag-footer-category.php:126
+#: inc/widgets/umag-footer-social-widget.php:127
+#: inc/widgets/umag-footer-tags.php:73 inc/widgets/umag-sort-category.php:123
+msgid "Title:"
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme_options.php:382 inc/theme_options.php:409
+msgid "Top slider category arrangment"
+msgstr ""
+
+#: inc/theme_options.php:370 inc/theme_options.php:397
+msgid "Top slider Leave blank to select all categories"
+msgstr ""
+
+#: inc/theme_options.php:157
+msgid "TRENDING NOW"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:39
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/widgets/umag-sort-category.php:11
+msgid "umag Category"
+msgstr ""
+
+#: inc/theme_options.php:64
+msgid "Umag color template"
+msgstr ""
+
+#: inc/widgets/umag-post-widget.php:11
+msgid "umag Featured post"
+msgstr ""
+
+#: inc/widgets/umag-footer-category.php:11
+msgid "umag Footer Category"
+msgstr ""
+
+#: inc/widgets/umag-footer-social-widget.php:11
+msgid "umag footer social link"
+msgstr ""
+
+#: inc/widgets/umag-footer-tags.php:11
+msgid "umag footer tags"
+msgstr ""
+
+#: inc/theme_options.php:95 inc/theme_options.php:163 inc/theme_options.php:228
+#: inc/theme_options.php:293
+msgid "Umag slide count"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:13
+msgid "umag social media followers"
+msgstr ""
+
+#: inc/theme_options.php:358
+msgid "Umag Top slide count"
+msgstr ""
+
+#: inc/widgets/umag-video-posts.php:11
+msgid "Umag video post"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/meta-box.php:9
+msgid "Video Settings"
+msgstr ""
+
+#: inc/meta-box.php:13
+msgid "video time"
+msgstr ""
+
+#: inc/widgets/umag-post-widget.php:31 inc/widgets/umag-video-posts.php:31
+msgid "views"
+msgstr "Görüntüle"
+
+#: template-parts/video-post.php:8
+msgid "WATCH"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:111
+msgid "Whatsapp Link"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/theme_options.php:442
+msgid "YasinCanaz"
+msgstr ""
+
+#. Author of the theme
+msgid "yasincanaz"
+msgstr ""
+
+#: inc/widgets/umag-post-widget.php:12
+msgid "You can select your featured posts here"
+msgstr ""
+
+#: inc/widgets/umag-video-posts.php:12
+msgid "You can select your featured video posts here"
+msgstr ""
+
+#: comments.php:97
+msgid "Your Email*"
+msgstr ""
+
+#: comments.php:96
+msgid "Your Name*"
+msgstr ""
+
+#: comments.php:98
+msgid "Your Website Address"
+msgstr ""
+
+#: inc/widgets/umag-social-media-widget.php:51
+msgid "Youtube Link"
+msgstr ""
